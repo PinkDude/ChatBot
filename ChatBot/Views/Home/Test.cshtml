@@ -1,0 +1,55 @@
+﻿
+<div><input class="test" type="text" name="number" id="Number" placeholder="Number" /></div>
+<div><input class="test" type="text" name="Request" id="Request" placeholder="Message" /></div>
+<div><input class="test" type="text" name="Response[0,0]" id="Ans1" placeholder="Ans1" /></div>
+<div><input class="test" type="text" name="Response[0,1]" id="Agl1" placeholder="Agil1" /></div>
+<div><input class="test" type="text" name="Response" id="Ans2" placeholder="Ans2" /></div>
+<div><input class="test" type="text" name="Response" id="Agl2" placeholder="Agil2" /></div>
+<div><input class="test" type="text" name="Response" id="Ans3" placeholder="Ans3" /></div>
+<div><input class="test" type="text" name="Response" id="Agl3" placeholder="Agil3" /></div>
+
+<button style="margin:45px 0px 0px 0px;" id="test" type="button">Простая загрузка данных</button>
+
+
+<script type="text/javascript" src="~/Scripts/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $('#test').click(function kek() {
+
+            var person = { name: 'lol' }
+
+            var arr = ["da", "90"]
+
+            var jo = {
+                Number: $('#Number').val(),
+                Request: $('#Request').val(),
+                Response: [[$('#Ans1').val(), $('#Agl1').val()], [$('#Ans2').val(), $('#Agl2').val()], [$('#Ans3').val(), $('#Agl3').val()]]
+            }
+            $.ajax({
+                type: "POST",
+                data: { jo },
+                url: "/Home/AjaxTest",
+                accept: 'application / json',
+                success: function (data) {
+                    for (var l in data) {
+                        alert("№" + l);
+                        for (var p in data[l]) {
+                            alert(p + " : " + data[l][p]);
+
+                        }
+
+                    }
+                },
+                error: function (result) {
+                    alert("Something Went Wrong");
+
+                }
+            })
+        })
+        })
+
+        function Refresh() {
+            $.get("/Home/Index");
+            setTimeout("Refresh();", 2000);
+        }
+</script>

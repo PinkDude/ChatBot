@@ -1,0 +1,107 @@
+﻿@{
+    Layout = null;
+}
+@using ChatBot.Models
+@model ListJ
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Окно в ад</title>
+    <meta name="author" content="Эт Я" />
+    <meta http-equiv="content-type" content="text/html chatset = UTF-8" />
+    <link href="~/css/site.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">CHATBOT</div>
+    <div class="sidebar">
+        <div class="tabbed">
+
+            <div id="RefreshArea" name="tabs">
+
+                @{
+                    await Html.RenderPartialAsync("Users", Model);
+                }
+            </div>
+        </div>
+    </div>
+    <div class="tabs" id="tabes">
+        <label1 class="topbar" id="topbar"></label1>
+        <div>
+            <label class="checkboxes" onclick="goMessage(id)" style="margin:610px 0px 0px 4px;" id="label1" for="radio1"></label>
+            <input style="display:none;" type="radio" id="radio1">
+        </div>
+        <div>
+            <label class="checkboxes" onclick="goMessage(id)" style="margin:660px 0px 0px 4px;" id="label2" for="radio2"></label>
+            <input style="display:none;" type="radio" id="radio2">
+        </div>
+        <div>
+            <label class="checkboxes" onclick="goMessage(id)" style="margin:710px 0px 0px 4px;" id="label3" for="radio3"></label>
+            <input style="display:none;" type="radio" id="radio3">
+        </div>
+        <textarea disabled class="messages" id="messages"></textarea>
+        <div>
+            <input class="textbox" type="text" id="textbox" placeholder="Введите сообщение..." />
+            <button class="button" type="button" id="send" onclick="goMessage(document.getElementById('textbox').id)">➤</button>
+        </div>
+
+    </div>
+<button class="refreshbutton" type="button" id="refr">↺</button>
+
+    <label id="agil1" style="display:none;"></label>
+    <label id="agil2" style="display:none;"></label>
+    <label id="agil3" style="display:none;"></label>
+    <script language="JavaScript" type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            UpdateBlock();
+        });
+
+        function UpdateBlock() {
+        setTimeout("UpdateBlock()", 1000);
+            $('#RefreshArea').load('@(Url.Action("RefUsers","Home"))');
+        }
+
+        function clearLabels() {
+
+
+        }
+
+        function goMessage(id) {
+            var x = document.getElementById(id).innerHTML;
+            var jo = {
+                Number: document.getElementById('topbar').innerHTML,
+                Request: document.getElementById('messages').innerHTML,
+                Response: [[document.getElementById('label1').innerHTML, document.getElementById('agil1').innerHTML], [document.getElementById('label2').innerHTML, document.getElementById('agil2').innerHTML], [document.getElementById('label3').innerHTML, document.getElementById('agil3').innerHTML]],
+                OperatorVar: x
+            }
+
+            $.ajax({
+                type: "POST",
+                data: { jo },
+                url: "/Home/GetAnswer",
+                accept: 'application / json',
+                success: function (data) {
+                        document.getElementById('topbar').innerHTML = "";
+                        document.getElementById('messages').innerHTML = "";
+                        document.getElementById('label1').innerHTML = "";
+                        document.getElementById('label2').innerHTML = "";
+                        document.getElementById('label3').innerHTML = "";
+
+                },
+                error: function (result) {
+                    alert("Something Went Wrong");
+
+                }
+
+            })
+            document.getElementById('label1').style.visibility = "hidden";
+            document.getElementById('label2').style.visibility = "hidden";
+            document.getElementById('label3').style.visibility = "hidden";
+        }
+
+    </script>
+</body>
+
+</html>

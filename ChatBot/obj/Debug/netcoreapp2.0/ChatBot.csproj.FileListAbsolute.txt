@@ -1,0 +1,165 @@
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\source\repos\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\source\repos\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\РАБОТАЕТ\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot_v2.1\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\Новая папка (3)\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ПОЧТИ РАБОТАЕТ\ChatBot_v2.2\ChatBot_v2.0\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot_v2.3\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+E:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+E:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+E:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+E:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+E:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+E:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+E:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+E:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+E:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+E:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+E:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+D:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+D:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+D:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+D:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+D:\ChatBot_v2.4\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+D:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+D:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+D:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+D:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+D:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+D:\ChatBot_v2.4\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\gotto\OneDrive\Рабочий стол\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\Ilnoo\Desktop\ChatBot-master\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
