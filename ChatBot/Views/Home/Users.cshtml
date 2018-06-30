@@ -8,7 +8,7 @@
         <tr>
             <th class="tabbed">
                 <input type="radio" name="tabs" id="radio@js">
-                <label onclick="Func1('@js.Number', '@js.Request', '@js.Response[0][0]', '@js.Response[1][0]', '@js.Response[2][0]', '@js.Response[0][1]', '@js.Response[1][1]', '@js.Response[2][1]')" id="label@js" for="radio@js">@js.Number</label>
+                <label onclick="Func1('@js.Number', '@js.Request', '@js.Response[0][0]', '@js.Response[1][0]', '@js.Response[2][0]', '@js.Response[0][1]', '@js.Response[1][1]', '@js.Response[2][1]', id)" id="label@js" for="radio@js" style="color:#AFEEEE" >@js.Number</label>
             </th>
         </tr>
             }
@@ -16,19 +16,41 @@
 
 </div>
 
+<script language="JavaScript" type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
 <script type="text/javascript">
 
-    function Func1(id = "Выберите пользователя", mes, a1, a2, a3, agl1, agl2, agl3) {
-        document.getElementById("topbar").innerHTML = id;
-        document.getElementById("messages").innerHTML = mes;
-        document.getElementById("label1").innerHTML = a1;
-        document.getElementById("label2").innerHTML = a2;
-        document.getElementById("label3").innerHTML = a3;
-        document.getElementById('label1').style.visibility = "visible";
-        document.getElementById('label2').style.visibility = "visible";
-        document.getElementById('label3').style.visibility = "visible";
-        document.getElementById("agil1").innerHTML = agl1;
-        document.getElementById("agil2").innerHTML = agl2;
-        document.getElementById("agil3").innerHTML = agl3;
+    $(document).ready(function () {
+        addIds('Users', 'label', 'lab');
+        addIds('Users', 'input', 'inplab');
+    })
+
+    function addIds(container, elName, prefix) {
+        var container = document.getElementById(container);
+        var tables = container.getElementsByTagName(elName);
+
+        for (var i = 0; i < tables.length; i++) {
+            tables[i].id = prefix + (i + 1);
+
+        }
+
+    }
+
+    function Func1(id = "Выберите пользователя", mes, a1, a2, a3, agl1, agl2, agl3, cl) {
+        if (document.getElementById(cl).style.background != 'brown') {
+            document.getElementById(cl).style.color = 'blue';
+            document.getElementById("nowLab").innerHTML = cl;
+            document.getElementById("topbar").innerHTML = id;
+            document.getElementById("messages").innerHTML = mes;
+            document.getElementById("label1").innerHTML = a1;
+            document.getElementById("label2").innerHTML = a2;
+            document.getElementById("label3").innerHTML = a3;
+            document.getElementById('label1').style.visibility = "visible";
+            document.getElementById('label2').style.visibility = "visible";
+            document.getElementById('label3').style.visibility = "visible";
+            document.getElementById("agil1").innerHTML = agl1;
+            document.getElementById("agil2").innerHTML = agl2;
+            document.getElementById("agil3").innerHTML = agl3;
+            document.getElementById("nowLab").innerHTML = cl;
+        }
     }
 </script>

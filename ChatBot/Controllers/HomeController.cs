@@ -23,6 +23,13 @@ namespace ChatBot.Controllers
         public HomeController(ChatBotUnitOfWork unit)
         {
             _unit = unit;
+            //Jsons kek = new Jsons()
+            //{
+            //    Number = "22354",
+            //    Request = "Tochno?",
+            //    Response = new string[3][] { new string[2] { "da", "88" }, new string[2] { "net", "55" }, new string[2] { "mb", "10" } }
+            //};
+            //listJ.listJ.Add(kek);
         }
 
         public IActionResult RefUsers()

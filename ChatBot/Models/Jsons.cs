@@ -22,16 +22,13 @@ namespace ChatBot.Models
         public string Number { get; set; }
         public string Request { get; set; }
         public string[][] Response { get; set; } = new string[3][] {new string[2], new string[2], new string[2] };
-        //public string[] Res { get; set; }// = new string[3];
         public string Operator { get; set; }
         public string OperatorVar { get; set; }
 
-        //public string[][] pom { get; set; }
-
         public bool GetProv()
         {
-            //try
-            //{
+            try
+            {
                 if (Response[0][1] == string.Empty)
                 {
                     //отправка оператору
@@ -50,11 +47,11 @@ namespace ChatBot.Models
                         return true;
                     }
                 }
-            /*}
+            }
             catch(Exception ex)
             {
                 throw ex;
-            }*/
+            }
         }
 
         public async void GoToBD(ChatBotUnitOfWork ChatBot)

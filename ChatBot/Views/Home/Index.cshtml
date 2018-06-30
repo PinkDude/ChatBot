@@ -47,19 +47,16 @@
         </div>
 
     </div>
-<button class="refreshbutton" type="button" id="refr">↺</button>
+    <button class="refreshbutton" type="button" id="refr" onclick="UpdateBlock()">↺</button>
 
     <label id="agil1" style="display:none;"></label>
     <label id="agil2" style="display:none;"></label>
     <label id="agil3" style="display:none;"></label>
+    <label id="nowLab" style="display:none;"></label>
     <script language="JavaScript" type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
     <script type="text/javascript">
-        $(document).ready(function () {
-            UpdateBlock();
-        });
 
         function UpdateBlock() {
-        setTimeout("UpdateBlock()", 1000);
             $('#RefreshArea').load('@(Url.Action("RefUsers","Home"))');
         }
 
@@ -76,6 +73,16 @@
                 Response: [[document.getElementById('label1').innerHTML, document.getElementById('agil1').innerHTML], [document.getElementById('label2').innerHTML, document.getElementById('agil2').innerHTML], [document.getElementById('label3').innerHTML, document.getElementById('agil3').innerHTML]],
                 OperatorVar: x
             }
+            //TODO : доделай чтоб он помечался только после успешной отправки
+            var nowLab = document.getElementById('nowLab').innerHTML;
+            alert(nowLab);
+            document.getElementById(nowLab).style.background = 'brown';
+
+            document.getElementById('topbar').innerHTML = "";
+            document.getElementById('messages').innerHTML = "";
+            document.getElementById('label1').innerHTML = "";
+            document.getElementById('label2').innerHTML = "";
+            document.getElementById('label3').innerHTML = "";
 
             $.ajax({
                 type: "POST",
@@ -83,12 +90,6 @@
                 url: "/Home/GetAnswer",
                 accept: 'application / json',
                 success: function (data) {
-                        document.getElementById('topbar').innerHTML = "";
-                        document.getElementById('messages').innerHTML = "";
-                        document.getElementById('label1').innerHTML = "";
-                        document.getElementById('label2').innerHTML = "";
-                        document.getElementById('label3').innerHTML = "";
-
                 },
                 error: function (result) {
                     alert("Something Went Wrong");
