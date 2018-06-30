@@ -11,6 +11,8 @@
     <meta name="author" content="Эт Я" />
     <meta http-equiv="content-type" content="text/html chatset = UTF-8" />
     <link href="~/css/site.css" rel="stylesheet">
+    <script language="JavaScript" type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="~/js/index.js"></script>
 </head>
 
 <body>
@@ -53,8 +55,14 @@
     <label id="agil2" style="display:none;"></label>
     <label id="agil3" style="display:none;"></label>
     <label id="nowLab" style="display:none;"></label>
-    <script language="JavaScript" type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
+
     <script type="text/javascript">
+        function UpdateBlock() {
+    $('#RefreshArea').load('@(Url.Action("RefUsers","Home"))');
+}
+
+    </script>
+    @*<script type="text/javascript">
 
         function UpdateBlock() {
             $('#RefreshArea').load('@(Url.Action("RefUsers","Home"))');
@@ -75,7 +83,6 @@
             }
             //TODO : доделай чтоб он помечался только после успешной отправки
             var nowLab = document.getElementById('nowLab').innerHTML;
-            alert(nowLab);
             document.getElementById(nowLab).style.background = 'brown';
 
             document.getElementById('topbar').innerHTML = "";
@@ -102,7 +109,7 @@
             document.getElementById('label3').style.visibility = "hidden";
         }
 
-    </script>
+    </script>*@
 </body>
 
 </html>
